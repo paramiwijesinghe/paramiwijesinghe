@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parami Wijesinghe</h1>
 <h3 align="center">I am an enthusiastic undergraduate student in Computer Engineering at the University of Jaffna, Sri Lanka. Passionate about blending creativity with technology, I dive deep into the latest frameworks and trends to build innovative solutions.</h3>
+</br>
 
 <img align="right" alt="coding"  width="400" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
 
