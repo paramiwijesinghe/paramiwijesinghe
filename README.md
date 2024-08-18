@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **Advanced Machine Learning Projects, particularly in the areas of deep learning and neural networks.**
 
-- 💬 Ask me about **React, Java**
+- 💬 Ask me about **Full-stack web development with MERN, Machine learning, Deep learning, Java**
 
 - 📫 How to reach me **paramiwijesinghe05@gmail.com**
 
